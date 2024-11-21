@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "references": [
+    { "path": "./packages/a" },
+    { "path": "./packages/b" }
+  ]
+}

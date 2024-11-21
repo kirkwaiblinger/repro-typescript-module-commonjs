@@ -11,3 +11,7 @@
 
 #!.yarn/cache
 .pnp.*
+
+*.tsbuildinfo
+dist
+node_modules

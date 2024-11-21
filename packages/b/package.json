@@ -1,0 +1,6 @@
+{
+  "name": "@demo/b",
+  "dependencies": {
+    "@demo/a": "workspace:^"
+  }
+}

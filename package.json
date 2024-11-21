@@ -1,4 +1,13 @@
 {
-  "name": "repro-typescript-module-commonjs",
-  "packageManager": "yarn@4.5.1"
+  "name": "@demo/root",
+  "packageManager": "yarn@4.5.1",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
 }

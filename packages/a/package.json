@@ -1,0 +1,9 @@
+{
+  "name": "@demo/a",
+  "exports": {
+    "./export-foo": {
+      "types": "./dist/foo.d.ts",
+      "default": "./dist/foo.js"
+    }
+  }
+}
