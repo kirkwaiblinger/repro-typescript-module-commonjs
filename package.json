@@ -1,0 +1,4 @@
+{
+  "name": "repro-typescript-module-commonjs",
+  "packageManager": "yarn@4.5.1"
+}

@@ -1,0 +1,1 @@
+# repro-typescript-module-commonjs
